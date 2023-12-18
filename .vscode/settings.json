@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "kleepost.h": "c",
+        "background.h": "c",
+        "game1.h": "c"
+    }
+}
